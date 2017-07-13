@@ -22,9 +22,9 @@ class Trainer:
         return clf.predict(test), scores
     
     def _train(self):
-#        clf = RandomForestClassifier(n_estimators=5, max_depth=10,
-#                                           min_samples_split=10, random_state=0)
-        clf = LogisticRegression(C=10, max_iter=10000000)
+        clf = RandomForestClassifier(n_estimators=5, max_depth=20,
+                                           min_samples_split=5, random_state=0)
+#        clf = LogisticRegression(C=10, max_iter=10000000)
         clf.fit(self.X, self.y)
         scores = cross_val_score(clf, self.X, self.y)
         return clf, scores

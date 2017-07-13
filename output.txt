@@ -9,7 +9,7 @@ What is the oldest profession ? Type: what
 What are liver enzymes ? Type: what
 Name the scar-faced bounty hunter of The Old West . Type: unknown
 When was Ozzy Osbourne born ? Type: when
-Why do heavier objects travel downhill faster ? Type: unknown
+Why do heavier objects travel downhill faster ? Type: affirmation
 Who was The Pride of the Yankees ? Type: who
 Who killed Gandhi ? Type: who
 What is considered the costliest disaster the insurance industry has ever faced ? Type: what
@@ -27,11 +27,11 @@ What 's the second-most-used vowel in English ? Type: what
 Who was the inventor of silly putty ? Type: who
 What is the highest waterfall in the United States ? Type: what
 Name a golf course in Myrtle Beach . Type: unknown
-Which two states enclose Chesapeake Bay ? Type: unknown
+Which two states enclose Chesapeake Bay ? Type: affirmation
 What does the abbreviation AIDS stand for ? Type: what
 What does a spermologer collect ? Type: what
 How many points make up a perfect fivepin bowling score ? Type: unknown
-Which company that manufactures video-game hardware sells the `` super system '' ? Type: unknown
+Which company that manufactures video-game hardware sells the `` super system '' ? Type: affirmation
 How many Community Chest cards are there in Monopoly ? Type: unknown
 What do Mormons believe ? Type: what
 When did the neanderthal man live ? Type: when
@@ -63,14 +63,14 @@ What does `` extended definition '' mean and how would one write a paper on it ?
 What country 's capital is Tirana ? Type: what
 What is titanium ? Type: what
 Who do Herb and Tootsie live next door to ? Type: who
-Which city has the oldest relationship as a sister�city with Los Angeles ? Type: unknown
+Which city has the oldest relationship as a sister�city with Los Angeles ? Type: affirmation
 What is a caldera ? Type: what
-Why do people get calluses ? Type: unknown
+Why do people get calluses ? Type: affirmation
 What are the names of the tourist attractions in Reims ? Type: what
 What are Cushman and Wakefield known for ? Type: what
 What body of water does the Danube River flow into ? Type: what
 Who is the founder of Scientology ? Type: who
-What does the six-footed Musca domestica become when it enters a house ? Type: when
+What does the six-footed Musca domestica become when it enters a house ? Type: what
 What is the history of skateboarding ? Type: what
 Who starred in Singing in the Rain and The Singing Nun ? Type: who
 How do I make fuel bricks from recycled newspaper ? Type: unknown
@@ -96,7 +96,7 @@ What is `` dew point '' ? Type: what
 What is the meaning of Jesus ? Type: what
 What company 's logo is a `` W '' in a circle ? Type: what
 What is the definition of a cascade ? Type: what
-When did Rococo painting and architecture flourish ? Type: when
+When did Rococo painting and architecture flourish ? Type: what
 What country 's national passenger rail system is called Via ? Type: what
 Who invented Make-up ? Type: who
 What is the origin of the word `` attic '' ? Type: what
@@ -114,20 +114,20 @@ What are the world 's four oceans ? Type: what
 What 's the only work by Michelangelo that bears his signature ? Type: what
 What is the largest snake in the world ? Type: what
 In what medium is Stuart Hamblen considered to be the first singing cowboy ? Type: what
-Where on the Internet can I find a song lyrics database similar to the International Lyrics Server ? Type: unknown
+Where on the Internet can I find a song lyrics database similar to the International Lyrics Server ? Type: affirmation
 How much money does a back injury lawsuit get ? Type: unknown
 What 's the common name for acetylsalicylic acid ? Type: what
 What does the Georgetown `` Hoya '' mean ? Type: what
-Where can I find a list of `` classic '' books 5th and 6th graders should read ? Type: unknown
-Which two products use a tiger as their symbol ? Type: unknown
+Where can I find a list of `` classic '' books 5th and 6th graders should read ? Type: affirmation
+Which two products use a tiger as their symbol ? Type: affirmation
 How is the election of a new Pope announced to the world ? Type: unknown
 How long does it take for your blood to make one complete trip through the body ? Type: unknown
 How do chickens have baby chicks ? Type: unknown
 What is the historical relationship of Catholic Church and bingo ? Type: what
-How was the element calcium named ? Type: unknown
+How was the element calcium named ? Type: when
 What crooner joined The Andrews Sisters for Pistol Packin Mama ? Type: what
 What piano company claims its product is the `` Instrument of the immortals '' ? Type: what
-When did the Bounty mutiny take place ? Type: unknown
+When did the Bounty mutiny take place ? Type: when
 What novel inspired the movie BladeRunner ? Type: what
 What is a transistor ? Type: what
 What is a film starring Jude Law ? Type: what
@@ -172,17 +172,17 @@ Where are the 49 steps ? Type: unknown
 In what year was De Gaulle elected president of France ? Type: what
 Who sings the themes for `` Dawson 's Creek '' and `` Felicity '' ? Type: who
 Who directed `` Jaws '' ? Type: who
-On what T.V. show could Tom Terrific be found ? Type: what
+On what T.V. show could Tom Terrific be found ? Type: affirmation
 What Indian tribe is F Troop perpetually doing battle with ? Type: what
 Where did Indian Pudding come from ? Type: unknown
-Why do some clothing labels say `` Use a nonchlorine bleach '' ? Type: unknown
+Why do some clothing labels say `` Use a nonchlorine bleach '' ? Type: affirmation
 How many colonies were involved in the American Revolution ? Type: unknown
 What is the name of the city that Maurizio Pellegrin lives in ? Type: what
 Where can I find pictorial directions on how to build a very simple treehouse ? Type: unknown
 What game 's board shows the territories of Irkutsk , Yakutsk and Kamchatka ? Type: unknown
-What is the name of the managing director of Apricot Computer ? Type: what
+What is the name of the managing director of Apricot Computer ? Type: unknown
 What is the occupation of Nicholas Cage ? Type: what
-Why do horseshoes bring luck ? Type: unknown
+Why do horseshoes bring luck ? Type: affirmation
 What is the 401 , K , plan ? Type: what
 What causes pneumonia ? Type: what
 What are the three winter months in the southern hemisphere ? Type: what
@@ -190,7 +190,7 @@ What does gringo mean ? Type: what
 What country contains Africa 's northernmost point ? Type: what
 What therapy attempts to elicit the `` primal scream '' ? Type: what
 Where is the Kalahari desert ? Type: unknown
-Which Ventura County police department seized the largest cocaine shipment in it 's history ? Type: unknown
+Which Ventura County police department seized the largest cocaine shipment in it 's history ? Type: affirmation
 What city is sometimes called Gotham ? Type: what
 What dangles over the tongue from the palate ? Type: what
 Who created Dennis the Menace ? Type: who
@@ -198,7 +198,7 @@ What dummy received an honorary degree from Northwestern University ? Type: what
 When was the first Wall Street Journal published ? Type: unknown
 What countries have the largest areas of forest ? Type: what
 How do I start a web based business ? Type: unknown
-Name Alvin 's brothers Type: unknown
+Name Alvin 's brothers Type: affirmation
 What is Eagle 's syndrome styloid process ? Type: what
 How did Jayne Mansfield die ? Type: unknown
 When did the royal wedding of Prince Andrew and Fergie take place ? Type: when
@@ -207,7 +207,7 @@ What explorer was nicknamed Iberia 's Pilot ? Type: what
 CNN began broadcasting in what year ? Type: what
 What is a ball that hits the foul pole called ? Type: what
 What makes hamburgers taste like steakburgers ? Type: what
-Which company created the Internet browser Mosaic ? Type: unknown
+Which company created the Internet browser Mosaic ? Type: affirmation
 What are the rites accompanying the circumcision of a newly born-child in Judaism called ? Type: what
 What was the education system in the 1960 's ? Type: what
 What South American city has the world 's highest commercial landing field ? Type: what
@@ -247,7 +247,7 @@ How many people on the ground were killed from the bombing of Pan Am Flight 103 
 Who wrote NN DT NNP NNP '' ? Type: who
 What is paracetamol ? Type: what
 What are the powers and weaknesses of Green Lantern 's ring ? Type: what
-Which mosquito 's bite draws blood , DT NN CC DT NN . Type: unknown
+Which mosquito 's bite draws blood , DT NN CC DT NN . Type: affirmation
 When was the first steel mill in the United States built ? Type: when
 What diminutive American female gymnast stole the show at the 1984 Olympics ? Type: what
 What is the origin of the name Katie ? Type: what
@@ -295,13 +295,13 @@ How do you get to the top of the Eiffel Tower ? Type: unknown
 What does ` PSI ' stand for ? Type: what
 What sea did the Romans call mare nostrum ? Type: what
 What 's the term for a bet before cards are dealt ? Type: what
-Which came first , according to Genesis 1 : 2 : 22 - the chicken or the egg ? Type: unknown
+Which came first , according to Genesis 1 : 2 : 22 - the chicken or the egg ? Type: who
 What city did the Flintstones live in ? Type: what
 What is Latin for incompetent ? Type: what
 What chemicals are used in lethal injection ? Type: what
 What toy company is the world 's No.1 maker of female apparel ? Type: what
 What board game does a `` wood-pusher '' play poorly ? Type: what
-Which Doonesbury character was likely to turn into a werewolf ? Type: unknown
+Which Doonesbury character was likely to turn into a werewolf ? Type: when
 What is the abbreviation for micro ? Type: what
 What are the 7 articles of the constitution ? Type: what
 Who has won the most Super Bowls ? Type: who
@@ -310,7 +310,7 @@ What is BPH ? Type: what
 What is the fastest commercial automobile that can be bought in the US ? Type: what
 What stadium do the Miami Dolphins play their home games in ? Type: what
 Who has the only speaking role in `` Silent Movie '' ? Type: who
-Why is poop sometimes different colors ? Type: unknown
+Why is poop sometimes different colors ? Type: affirmation
 What was Einstein 's IQ ? Type: what
 What day was Pearl Harbor attacked in 1942 ? Type: what
 What girl 's name is `` Teddy '' an affectionate form of ? Type: what
@@ -326,7 +326,7 @@ How is silk screening done ? Type: unknown
 What is the latitude and longitude of El Paso , Texas ? Type: what
 Who made a boat out of gopher wood ? Type: who
 Where can I find a `` Fifth Element '' screensaver ? Type: unknown
-Which Bloom County resident wreaks havoc with a computer ? Type: unknown
+Which Bloom County resident wreaks havoc with a computer ? Type: affirmation
 How do you match a name to a social security number ? Type: unknown
 How does a rainbow form ? Type: unknown
 What is the normal resting heart rate of a healthy adult ? Type: what
@@ -348,7 +348,7 @@ Who invented the radio ? Type: who
 What 's the American dollar equivalent for 8 pounds in the U.K. ? Type: what
 What are the different approaches of systems analysis ? Type: what
 How do doctors diagnose bone cancer ? Type: unknown
-Who is the man behind the pig-the man who pulls the strings and speaks for Miss Piggy ? Type: who
+Who is the man behind the pig-the man who pulls the strings and speaks for Miss Piggy ? Type: unknown
 What is the speed of the Mississippi River ? Type: what
 What are the developmental stages of a swimmer ? Type: what
 What actor first portrayed James Bond ? Type: what
@@ -359,7 +359,7 @@ How many sonnets did Shakespeare write ? Type: unknown
 What causes the redness in your cheeks when you blush ? Type: what
 Who won the Nobel Peace Prize in 1991 ? Type: who
 Who are the Challengers of the Unknown ? Type: who
-Define the Pheonix Club ? Type: unknown
+Define the Pheonix Club ? Type: affirmation
 Which city did Christian Crusaders fight to recapture from the Muslims ? Type: unknown
 What does it mean `` Rupee Depreciates '' ? Type: what
 What gaming devices were dubbed `` Mississippi marbles '' and `` Memphis dominoes '' ? Type: what
@@ -407,10 +407,10 @@ What is the difference between a generator and an alternator ? Type: what
 How is energy created ? Type: unknown
 What beer advertised that it had `` three rings '' ? Type: what
 What is the quantity of American soldiers still unaccounted for from the Vietnam war ? Type: what
-What golfing accessory was patented by George Grant on December 12 Type: what
+What golfing accessory was patented by George Grant on December 12 Type: affirmation
 What are the different types of plastic ? Type: what
 How is it correct to say ` qigong ' ? Type: unknown
-What was the highest mountain on earth before Mount Everest was discovered ? Type: what
+What was the highest mountain on earth before Mount Everest was discovered ? Type: when
 Where was the Ligurian Republic , 1797-185 , ? Type: unknown
 What country 's people are the top television watchers ? Type: what
 When was the women 's suffrage amendment ratified ? Type: when
@@ -418,7 +418,7 @@ What Polynesian people inhabit New Zealand ? Type: what
 What movie tour of the Roman empire features the admonition : `` Row well and live '' ? Type: what
 What Nevada center has been dubbed The Biggest Little City in the World ? Type: what
 What President lived at 219 North Delaware Street , Independence , Missouri ? Type: what
-DESC:reason Give a reason for American Indians oftentimes dropping out of school . Type: unknown
+DESC:reason Give a reason for American Indians oftentimes dropping out of school . Type: affirmation
 Where must a soccer goalie stand to be permitted to handle the ball ? Type: unknown
 What is the difference between classical conditioning and operant conditioning ? Type: what
 In what U.S. state was the first woman governor elected ? Type: what
@@ -447,7 +447,7 @@ What song served as the closing theme of The Johnny Cash Show ? Type: what
 What field sport did dentist William Beers promote and write a standard book of rules for ? Type: what
 How do I tie dye clothes ? Type: unknown
 When does the average teenager first have intercourse ? Type: when
-Why doesn 't www.answers.com have any answers to my questions ? Type: unknown
+Why doesn 't www.answers.com have any answers to my questions ? Type: affirmation
 What actor 's autobiography is titled All My Yesterdays ? Type: what
 What Russian master spy lived in the U.S. under the name Emil Goldfus ? Type: what
 Where 's the 19th hole on a golf course ? Type: unknown
@@ -480,7 +480,7 @@ What cocktail do you concoct with whisky and sweet vermouth ? Type: what
 How do you say `` fresh '' in Spanish ? Type: unknown
 What do bee hives do in cranberry bogs ? Type: what
 What caused the Lynmouth floods ? Type: what
-When is the Tulip Festival in Michigan ? Type: what
+When is the Tulip Festival in Michigan ? Type: when
 Who came up with the name , El Nino ? Type: who
 What movie did Madilyn Kahn star in with Gene Wilder ? Type: what
 What type of bridge is the Golden Gate Bridge ? Type: what
@@ -494,15 +494,15 @@ Where can I find out the top 1 singles ? Type: unknown
 How many degrees cooler is the inside of a cucumber than the air outside ? Type: unknown
 What Spanish artist painted Crucifixion ? Type: what
 What is the Jewish bible called ? Type: what
-Why is the grass green ? Type: unknown
+Why is the grass green ? Type: affirmation
 What is a firewall ? Type: what
 What spy novelist served as Moscow correspondent for Reuter and The Times of London ? Type: what
-Which oil company almost picked a word that meant `` stalled car '' in Japanese as its new international name ? Type: unknown
+Which oil company almost picked a word that meant `` stalled car '' in Japanese as its new international name ? Type: affirmation
 How long does it take for Spider-Man 's web to evaporate ? Type: unknown
 Who was Randy Steven Craft 's lawyer ? Type: who
 What was known as the Spice Island ? Type: what
 Who was the first host of Person to Person ? Type: what
-Name the Ranger who was always after Yogi Bear . Type: who
+Name the Ranger who was always after Yogi Bear . Type: unknown
 What deck of cards includes the Wheel of Fortune , the Lovers , and Death ? Type: what
 What does the Statue of Liberty wear on her feet ? Type: what
 Who is the superstar in rent-a-cars ? Type: who
@@ -545,7 +545,7 @@ What is a fear of thunder ? Type: what
 What animal has killed the most people ? Type: what
 How many colleges are in Wyoming ? Type: unknown
 What Russian seaport has a name meaning `` Lord of the East '' ? Type: what
-Where can stocks be traded on-line ? Type: unknown
+Where can stocks be traded on-line ? Type: affirmation
 When was the Battle of Hastings ? Type: when
 What kind of file has the extension .dbf ? Type: what
 When did Muhammad live ? Type: when
@@ -558,7 +558,7 @@ What is the best college in the country ? Type: what
 What is viscosity ? Type: what
 What was the name of the sitcom that Alyssa Milano starred in with Tony Danza ? Type: what
 What are the Nordic nations ? Type: what
-Where on the Internet can I get information about the Fifth Amendment on the American Bill of Rights ? Type: unknown
+Where on the Internet can I get information about the Fifth Amendment on the American Bill of Rights ? Type: what
 What U.S. state borders Illinois to the north ? Type: what
 Name a film in which Jude Law acted . Type: unknown
 What is the temperature for baking Peachy Oat Muffins ? Type: what
@@ -577,10 +577,10 @@ Who was the star of the 1965 Broadway hit Golden Boy ? Type: what
 Where is Procter & Gamble based in the U.S. ? Type: unknown
 What army was founded by William Booth and his wife Catherine ? Type: what
 What does ribavirin consist of ? Type: what
-Name the soft drink that is `` number one in the sun . '' Type: unknown
+Name the soft drink that is `` number one in the sun . '' Type: affirmation
 What is the web address of the list of e-mail addresses of members of the House of Representatives ? Type: what
 What was her real name ? Type: what
-Why are the ears your center of balance ? Type: unknown
+Why are the ears your center of balance ? Type: affirmation
 Who invented the toothbrush ? Type: who
 What was the name of that popular song the Creeps sang ? Type: what
 Where is the Abominable Snowman said to wander ? Type: unknown
@@ -624,13 +624,13 @@ What is a Jellicle Cat ? Type: what
 Where can I find the best free evidence for debate about Russia ? Type: unknown
 What is Bill Gates of Microsoft E-mail address ? Type: what
 What is the second hardest substance ? Type: what
-Why did several San Diego schools stop serving apples to students ? Type: unknown
+Why did several San Diego schools stop serving apples to students ? Type: affirmation
 What Russian city boasts the Hermitage Museum ? Type: what
 When is Bastille Day ? Type: when
 What makes a tornado turn ? Type: what
 How many shots can a stock M16 hold ? Type: unknown
 What two colors are you blind to if you suffer from protanopia ? Type: what
-Why do n't you guys have some sort of contest where you ask a question and whoever finds the answers wins a prize ? Type: unknown
+Why do n't you guys have some sort of contest where you ask a question and whoever finds the answers wins a prize ? Type: affirmation
 Who is Coronado ? Type: who
 What was the name of the movie that starred Sharon Stone and Arnold Schwarzenegger ? Type: what
 What is artificial intelligence ? Type: what
@@ -652,7 +652,7 @@ What is the most advanced handheld calculator in the world ? Type: what
 How fast is light ? Type: unknown
 What is the belt of low pressure around the equator called ? Type: what
 What are shooting stars ? Type: what
-Whom did the Chicago Bulls beat in the 1993 championship ? Type: unknown
+Whom did the Chicago Bulls beat in the 1993 championship ? Type: affirmation
 When was the first American encyclopedia published ? Type: when
 What 's the tallest building in New York City ? Type: what
 How is Easter Sunday 's date determined ? Type: unknown
@@ -672,27 +672,27 @@ What is the highest mountain in the world ? Type: what
 What arch can you see from the Place de la Concorde ? Type: what
 Who sings the song `` Drink to me with thine eyes '' by Ben Johnson ? Type: who
 How long should a person wash their hands before they are clean ? Type: unknown
-Which way do you turn your Bic to increase the flame - clockwise or counterclockwise ? Type: unknown
-Which is the wealthiest country in the world ? Type: unknown
+Which way do you turn your Bic to increase the flame - clockwise or counterclockwise ? Type: affirmation
+Which is the wealthiest country in the world ? Type: what
 How can I find a phone number of someone if I only know their email address ? Type: unknown
 How can you contact play producers and promoters on-line ? Type: unknown
 Who is the monarch of the United Kingdom ? Type: who
 What is a fear of passing high objects ? Type: what
 What do players try to do when the music stops in a game of musical chairs ? Type: what
 What are the top ten most common girl names in the US ? Type: what
-Why is black the color of mourning in the West ? Type: unknown
+Why is black the color of mourning in the West ? Type: affirmation
 What is the rarest coin ? Type: what
 What Judith Rossner novel was made into a film starring Diane Keaton ? Type: what
-Which country is Australia 's largest export market ? Type: unknown
+Which country is Australia 's largest export market ? Type: affirmation
 Where is the Kentucky Horse Park located ? Type: unknown
 What is a fear of parasites ? Type: what
-In what Olympic Games did Nadia Comaneci become popular ? Type: what
+In what Olympic Games did Nadia Comaneci become popular ? Type: when
 Who does data collection in tourism ? Type: who
 What was the name of the daughter of the Virginia chief Powhatan that married John Rolfe ? Type: what
 What is the leading pecan and peanut growing state ? Type: what
 What does a nihilist believe in ? Type: what
 What did Richard Feynman say upon hearing he would receive the Nobel Prize in Physics ? Type: unknown
-In what sport are these following numbers relevant : 118 , 126 , 134 , 142 , 15 , 158 , 167 , 177 , and 19 ? Type: unknown
+In what sport are these following numbers relevant : 118 , 126 , 134 , 142 , 15 , 158 , 167 , 177 , and 19 ? Type: what
 Who were the four famous founders of United Artists ? Type: who
 What 2 statues did France give to other countries ? Type: what
 What are amphibians ? Type: what
@@ -717,7 +717,7 @@ What are the shortest and the longest songs ever produced ? Type: what
 What letter is to the right of K on a typewriter keyboard ? Type: what
 What is the origin and the meaning of the name , `` Hajo ? '' Type: what
 What is the plural of gulf ? Type: what
-Whose autobiography is titled Yes I Can ? Type: affirmation
+Whose autobiography is titled Yes I Can ? Type: unknown
 What year did the United States pass the Copyright law ? Type: what
 What percentage of Americans own their homes ? Type: what
 What 's the first day of the week ? Type: what
@@ -735,7 +735,7 @@ What was the name of the cook on Rawhide ? Type: what
 What county is Chicago in ? Type: what
 What is the wingspan of a condor ? Type: what
 What facial feature typically contains about 55 hairs ? Type: what
-Who was named Admiral of the Ocean Seas and Viceroy and Governor General of all the islands he might discover , and also granted 10-?? of all profits of his voyage . Type: who
+Who was named Admiral of the Ocean Seas and Viceroy and Governor General of all the islands he might discover , and also granted 10-?? of all profits of his voyage . Type: affirmation
 How can I transport files from one computer to another ? Type: unknown
 What 's the literary term for a play on words ? Type: what
 What color were their horses ? Type: what
@@ -759,7 +759,7 @@ What is the longest place name in the U.S. ? Type: what
 What percent liked Thatcher after she had been in power for a decade ? Type: what
 Where does Buzz Aldrin want to build a permanent , manned space station ? Type: unknown
 What was Mel Gibson 's first movie ? Type: what
-Why was the L.A. office of Shea and Gould closed ? Type: unknown
+Why was the L.A. office of Shea and Gould closed ? Type: affirmation
 How do I start a bank ? Type: unknown
 How do Ouija Boards work ? Type: unknown
 What horse did Zorro ride ? Type: what
@@ -767,8 +767,8 @@ How do you get a broken cork out of a bottle ? Type: unknown
 Where can I find correct tabs for Third Eye Blind songs ? Type: unknown
 How do you determine heating requirements for your home ? Type: unknown
 What former major-league left-handed baseball pitcher was known as `` Space Man '' ? Type: what
-Which hair care product told us `` hate that gray , wash it away '' ? Type: unknown
-Why did the chicken cross the road ? Type: unknown
+Which hair care product told us `` hate that gray , wash it away '' ? Type: affirmation
+Why did the chicken cross the road ? Type: affirmation
 What was Michelangelo 's last name ? Type: what
 Who is Barbara Jordan ? Type: who
 Who was the Democratic nominee in the American presidential election ? Type: who
@@ -785,12 +785,12 @@ When was Hurricane Hugo ? Type: what
 What is the most heavily caffeinated soft drink ? Type: what
 What President-to-be was the first member of Congress to enlist following the attack on Pearl Harbor ? Type: what
 What was the price of Varian Associates ' vacuum products division ? Type: what
-When was `` the Great Depression '' ? Type: what
+When was `` the Great Depression '' ? Type: when
 What language is mostly spoken in Brazil ? Type: what
 What college produced the most winning Super Bowl quarterbacks ? Type: what
 How do you solve `` Rubik 's Cube '' ? Type: unknown
 What is prepared mustard ? Type: what
-What classical Spanish writer warned : `` All that glitters is not gold '' ? Type: what
+What classical Spanish writer warned : `` All that glitters is not gold '' ? Type: when
 What does `` antidisestablishmentarianism '' mean ? Type: what
 What actor married John F. Kennedy 's sister ? Type: what
 What does a topophobic actor suffer from ? Type: what
@@ -802,7 +802,7 @@ Who was the first black golfer to tee off in the Masters ? Type: who
 What city is the setting for Puccini 's opera La Boheme ? Type: what
 What U.S. President showed a fondness for munching on bee pollen bars ? Type: what
 What is measured in curies ? Type: what
-Whose cover is that of an employee of Universal Import and Export ? Type: unknown
+Whose cover is that of an employee of Universal Import and Export ? Type: affirmation
 What former president 's daughter has written a book titled Murder in the White House ? Type: what
 What fictional character is known as the `` melancholy Dane '' ? Type: what
 Italy is the largest producer of what ? Type: what
@@ -863,12 +863,12 @@ Who created the character of Scrooge ? Type: who
 What is the student population at the University of Massachusetts in Amherst ? Type: what
 Where is Windsor Castle ? Type: unknown
 When did the Dow first reach ? Type: when
-Why were people recruited for the Vietnam War ? Type: unknown
+Why were people recruited for the Vietnam War ? Type: affirmation
 What party was Winston Churchill a member of ? Type: what
 What American League baseball team 's worst finish between 1926 and 1964 was fourth ? Type: what
 Where can I find the names of all the 15 Pokemon ? Type: unknown
 What state does Martha Stewart live in ? Type: what
-Which killer whale died at Sea World of a fungal infection ? Type: unknown
+Which killer whale died at Sea World of a fungal infection ? Type: affirmation
 What are the Benelux countries ? Type: what
 Where 's the Petrified Forest ? Type: unknown
 What is a language spoken by the Sioux ? Type: what
@@ -876,7 +876,7 @@ Where is Tornado Alley ? Type: unknown
 Who was the author of `` John Brown 's Body '' ? Type: who
 What American poet wrote : `` Good fences make good neighbors '' ? Type: what
 What state in the U.S. has the most blacks ? Type: what
-Why are electric cars less efficient in the northeast than in California ? Type: unknown
+Why are electric cars less efficient in the northeast than in California ? Type: what
 What was the occupation of Mandy Rice-Davies ? Type: what
 What is the city in which Maurizio Pellegrin lives called ? Type: what
 Who painted the Sistine Chapel ? Type: who
@@ -924,14 +924,14 @@ What is the difference between a median and a mean ? Type: what
 What was the top box office movie in April 1998 ? Type: what
 What makes thunder ? Type: what
 What author did photographer Yousuf Karsh call `` the shiest man I ever met '' ? Type: what
-Which is the largest clock , diameter wise , in Europe ? Type: unknown
+Which is the largest clock , diameter wise , in Europe ? Type: affirmation
 What plant is rum made from ? Type: what
 What country are Godiva chocolates from ? Type: what
 Name the poet of the poem which begins : I do not know much about gods ; but I think that the river Is a strong brown god-sullen , and untamed ? Type: unknown
-Which condiment was once sold as a patent medicine ? Type: unknown
+Which condiment was once sold as a patent medicine ? Type: affirmation
 What U.S. state records the least rainfall ? Type: what
-Why did the world enter a global depression in 1929 ? Type: unknown
-What was archy , and mehitabel ? Type: what
+Why did the world enter a global depression in 1929 ? Type: what
+What was archy , and mehitabel ? Type: when
 What Texas city got its name from the Spanish for `` yellow '' ? Type: what
 What are the chemicals used in glowsticks ? Type: what
 What country did the Nile River originate in ? Type: what
@@ -976,7 +976,7 @@ What golfer has been called Ohio Fats and Blobbo ? Type: what
 Who murdered Leno and Rosemary LaBianca on August 1 Type: who
 What is the average cost for four years of medical school ? Type: what
 What does God create in the first sentence of the Bible ? Type: what
-Which of the following men was not married to Rita Hayworth ? Type: unknown
+Which of the following men was not married to Rita Hayworth ? Type: affirmation
 What is the current ticket fare from from Cairo to Barbados ? Type: what
 What does NN O `` mean when used as a prefix in Irish surnames ? Type: what
 How do you find oxidation numbers ? Type: unknown
@@ -994,7 +994,7 @@ What auto race was Wilbur Reed the first to win three times ? Type: what
 What are the most common breeding birds in the U.S. ? Type: what
 What was organized as a Confederate veterans ' social club in Pulaski , in Tennessee , in 1866 ? Type: what
 How do you look up criminal records on the Internet ? Type: unknown
-Where is the actress , Marion Davies , buried Type: unknown
+Where is the actress , Marion Davies , buried Type: affirmation
 How did serfdom develop in and then leave Russia ? Type: unknown
 What films featured the character Popeye Doyle ? Type: what
 How can I find a list of celebrities ' real names ? Type: unknown
@@ -1006,7 +1006,7 @@ What is the oldest profession ? Type: what
 What are liver enzymes ? Type: what
 Name the scar-faced bounty hunter of The Old West . Type: unknown
 When was Ozzy Osbourne born ? Type: when
-Why do heavier objects travel downhill faster ? Type: unknown
+Why do heavier objects travel downhill faster ? Type: affirmation
 Who was The Pride of the Yankees ? Type: who
 Who killed Gandhi ? Type: who
 What is considered the costliest disaster the insurance industry has ever faced ? Type: what
@@ -1024,11 +1024,11 @@ What 's the second-most-used vowel in English ? Type: what
 Who was the inventor of silly putty ? Type: who
 What is the highest waterfall in the United States ? Type: what
 Name a golf course in Myrtle Beach . Type: unknown
-Which two states enclose Chesapeake Bay ? Type: unknown
+Which two states enclose Chesapeake Bay ? Type: affirmation
 What does the abbreviation AIDS stand for ? Type: what
 What does a spermologer collect ? Type: what
 How many points make up a perfect fivepin bowling score ? Type: unknown
-Which company that manufactures video-game hardware sells the `` super system '' ? Type: unknown
+Which company that manufactures video-game hardware sells the `` super system '' ? Type: affirmation
 How many Community Chest cards are there in Monopoly ? Type: unknown
 What do Mormons believe ? Type: what
 When did the neanderthal man live ? Type: when
@@ -1060,14 +1060,14 @@ What does `` extended definition '' mean and how would one write a paper on it ?
 What country 's capital is Tirana ? Type: what
 What is titanium ? Type: what
 Who do Herb and Tootsie live next door to ? Type: who
-Which city has the oldest relationship as a sister�city with Los Angeles ? Type: unknown
+Which city has the oldest relationship as a sister�city with Los Angeles ? Type: affirmation
 What is a caldera ? Type: what
-Why do people get calluses ? Type: unknown
+Why do people get calluses ? Type: affirmation
 What are the names of the tourist attractions in Reims ? Type: what
 What are Cushman and Wakefield known for ? Type: what
 What body of water does the Danube River flow into ? Type: what
 Who is the founder of Scientology ? Type: who
-What does the six-footed Musca domestica become when it enters a house ? Type: when
+What does the six-footed Musca domestica become when it enters a house ? Type: what
 DESC:desc What is the history of skateboarding ? Type: what
 Who starred in Singing in the Rain and The Singing Nun ? Type: who
 How do I make fuel bricks from recycled newspaper ? Type: unknown
@@ -1093,7 +1093,7 @@ What is `` dew point '' ? Type: what
 What is the meaning of Jesus ? Type: what
 What company 's logo is a `` W '' in a circle ? Type: what
 What is the definition of a cascade ? Type: what
-When did Rococo painting and architecture flourish ? Type: when
+When did Rococo painting and architecture flourish ? Type: what
 What country 's national passenger rail system is called Via ? Type: what
 Who invented Make-up ? Type: who
 What is the origin of the word `` attic '' ? Type: what
@@ -1111,20 +1111,20 @@ What are the world 's four oceans ? Type: what
 What 's the only work by Michelangelo that bears his signature ? Type: what
 What is the largest snake in the world ? Type: what
 In what medium is Stuart Hamblen considered to be the first singing cowboy ? Type: what
-Where on the Internet can I find a song lyrics database similar to the International Lyrics Server ? Type: unknown
+Where on the Internet can I find a song lyrics database similar to the International Lyrics Server ? Type: affirmation
 How much money does a back injury lawsuit get ? Type: unknown
 What 's the common name for acetylsalicylic acid ? Type: what
 What does the Georgetown `` Hoya '' mean ? Type: what
-Where can I find a list of `` classic '' books 5th and 6th graders should read ? Type: unknown
-Which two products use a tiger as their symbol ? Type: unknown
+Where can I find a list of `` classic '' books 5th and 6th graders should read ? Type: affirmation
+Which two products use a tiger as their symbol ? Type: affirmation
 How is the election of a new Pope announced to the world ? Type: unknown
 How long does it take for your blood to make one complete trip through the body ? Type: unknown
 How do chickens have baby chicks ? Type: unknown
 What is the historical relationship of Catholic Church and bingo ? Type: what
-How was the element calcium named ? Type: unknown
+How was the element calcium named ? Type: when
 What crooner joined The Andrews Sisters for Pistol Packin Mama ? Type: what
 What piano company claims its product is the `` Instrument of the immortals '' ? Type: what
-When did the Bounty mutiny take place ? Type: unknown
+When did the Bounty mutiny take place ? Type: when
 What novel inspired the movie BladeRunner ? Type: what
 What is a transistor ? Type: what
 What is a film starring Jude Law ? Type: what
@@ -1169,17 +1169,17 @@ Where are the 49 steps ? Type: unknown
 In what year was De Gaulle elected president of France ? Type: what
 Who sings the themes for `` Dawson 's Creek '' and `` Felicity '' ? Type: who
 Who directed `` Jaws '' ? Type: who
-On what T.V. show could Tom Terrific be found ? Type: what
+On what T.V. show could Tom Terrific be found ? Type: affirmation
 What Indian tribe is F Troop perpetually doing battle with ? Type: what
 Where did Indian Pudding come from ? Type: unknown
-Why do some clothing labels say `` Use a nonchlorine bleach '' ? Type: unknown
+Why do some clothing labels say `` Use a nonchlorine bleach '' ? Type: affirmation
 How many colonies were involved in the American Revolution ? Type: unknown
 What is the name of the city that Maurizio Pellegrin lives in ? Type: what
 Where can I find pictorial directions on how to build a very simple treehouse ? Type: unknown
 What game 's board shows the territories of Irkutsk , Yakutsk and Kamchatka ? Type: unknown
-What is the name of the managing director of Apricot Computer ? Type: what
+What is the name of the managing director of Apricot Computer ? Type: unknown
 What is the occupation of Nicholas Cage ? Type: what
-Why do horseshoes bring luck ? Type: unknown
+Why do horseshoes bring luck ? Type: affirmation
 What is the 401 , K , plan ? Type: what
 What causes pneumonia ? Type: what
 What are the three winter months in the southern hemisphere ? Type: what
@@ -1187,7 +1187,7 @@ What does gringo mean ? Type: what
 What country contains Africa 's northernmost point ? Type: what
 What therapy attempts to elicit the `` primal scream '' ? Type: what
 Where is the Kalahari desert ? Type: unknown
-Which Ventura County police department seized the largest cocaine shipment in it 's history ? Type: unknown
+Which Ventura County police department seized the largest cocaine shipment in it 's history ? Type: affirmation
 What city is sometimes called Gotham ? Type: what
 What dangles over the tongue from the palate ? Type: what
 Who created Dennis the Menace ? Type: who
@@ -1195,7 +1195,7 @@ What dummy received an honorary degree from Northwestern University ? Type: what
 When was the first Wall Street Journal published ? Type: unknown
 What countries have the largest areas of forest ? Type: what
 How do I start a web based business ? Type: unknown
-Name Alvin 's brothers Type: unknown
+Name Alvin 's brothers Type: affirmation
 What is Eagle 's syndrome styloid process ? Type: what
 How did Jayne Mansfield die ? Type: unknown
 When did the royal wedding of Prince Andrew and Fergie take place ? Type: when
@@ -1204,7 +1204,7 @@ What explorer was nicknamed Iberia 's Pilot ? Type: what
 CNN began broadcasting in what year ? Type: what
 What is a ball that hits the foul pole called ? Type: what
 What makes hamburgers taste like steakburgers ? Type: what
-Which company created the Internet browser Mosaic ? Type: unknown
+Which company created the Internet browser Mosaic ? Type: affirmation
 What are the rites accompanying the circumcision of a newly born-child in Judaism called ? Type: what
 What was the education system in the 1960 's ? Type: what
 What South American city has the world 's highest commercial landing field ? Type: what
@@ -1220,7 +1220,7 @@ What does S.O.S. stand for ? Type: what
 Name a technique widely used to detect birth defects ? Type: unknown
 What is the daily requirement of folic acid for an expectant mother ? Type: what
 What is the `` 7-minute cigarette '' ? Type: what
-at is the `` 7-minute cigarette '' ? Type: what
+at is the `` 7-minute cigarette '' ? Type: affirmation
 What four forms does gold occur in ? Type: what
 What is the acreage of the Chappellet vineyard ? Type: what
 How do you correctly say the word ` qigong ' ? Type: unknown
@@ -1245,7 +1245,7 @@ How many people on the ground were killed from the bombing of Pan Am Flight 103 
 Who wrote NN DT NNP NNP '' ? Type: who
 What is paracetamol ? Type: what
 What are the powers and weaknesses of Green Lantern 's ring ? Type: what
-Which mosquito 's bite draws blood , DT NN CC DT NN . Type: unknown
+Which mosquito 's bite draws blood , DT NN CC DT NN . Type: affirmation
 When was the first steel mill in the United States built ? Type: when
 What diminutive American female gymnast stole the show at the 1984 Olympics ? Type: what
 What is the origin of the name Katie ? Type: what
@@ -1293,13 +1293,13 @@ How do you get to the top of the Eiffel Tower ? Type: unknown
 What does ` PSI ' stand for ? Type: what
 What sea did the Romans call mare nostrum ? Type: what
 What 's the term for a bet before cards are dealt ? Type: what
-Which came first , according to Genesis 1 : 2 : 22 - the chicken or the egg ? Type: unknown
+Which came first , according to Genesis 1 : 2 : 22 - the chicken or the egg ? Type: who
 What city did the Flintstones live in ? Type: what
 What is Latin for incompetent ? Type: what
 What chemicals are used in lethal injection ? Type: what
 What toy company is the world 's No.1 maker of female apparel ? Type: what
 What board game does a `` wood-pusher '' play poorly ? Type: what
-Which Doonesbury character was likely to turn into a werewolf ? Type: unknown
+Which Doonesbury character was likely to turn into a werewolf ? Type: when
 What is the abbreviation for micro ? Type: what
 What are the 7 articles of the constitution ? Type: what
 Who has won the most Super Bowls ? Type: who
@@ -1308,7 +1308,7 @@ What is BPH ? Type: what
 What is the fastest commercial automobile that can be bought in the US ? Type: what
 What stadium do the Miami Dolphins play their home games in ? Type: what
 Who has the only speaking role in `` Silent Movie '' ? Type: who
-Why is poop sometimes different colors ? Type: unknown
+Why is poop sometimes different colors ? Type: affirmation
 What was Einstein 's IQ ? Type: what
 What day was Pearl Harbor attacked in 1942 ? Type: what
 What girl 's name is `` Teddy '' an affectionate form of ? Type: what
@@ -1324,7 +1324,7 @@ How is silk screening done ? Type: unknown
 What is the latitude and longitude of El Paso , Texas ? Type: what
 Who made a boat out of gopher wood ? Type: who
 Where can I find a `` Fifth Element '' screensaver ? Type: unknown
-Which Bloom County resident wreaks havoc with a computer ? Type: unknown
+Which Bloom County resident wreaks havoc with a computer ? Type: affirmation
 How do you match a name to a social security number ? Type: unknown
 How does a rainbow form ? Type: unknown
 What is the normal resting heart rate of a healthy adult ? Type: what
@@ -1346,7 +1346,7 @@ Who invented the radio ? Type: who
 What 's the American dollar equivalent for 8 pounds in the U.K. ? Type: what
 What are the different approaches of systems analysis ? Type: what
 How do doctors diagnose bone cancer ? Type: unknown
-Who is the man behind the pig-the man who pulls the strings and speaks for Miss Piggy ? Type: who
+Who is the man behind the pig-the man who pulls the strings and speaks for Miss Piggy ? Type: unknown
 What is the speed of the Mississippi River ? Type: what
 What are the developmental stages of a swimmer ? Type: what
 What actor first portrayed James Bond ? Type: what
@@ -1357,7 +1357,7 @@ How many sonnets did Shakespeare write ? Type: unknown
 What causes the redness in your cheeks when you blush ? Type: what
 Who won the Nobel Peace Prize in 1991 ? Type: who
 Who are the Challengers of the Unknown ? Type: who
-Define the Pheonix Club ? Type: unknown
+Define the Pheonix Club ? Type: affirmation
 Which city did Christian Crusaders fight to recapture from the Muslims ? Type: unknown
 What does it mean `` Rupee Depreciates '' ? Type: what
 What gaming devices were dubbed `` Mississippi marbles '' and `` Memphis dominoes '' ? Type: what
@@ -1405,10 +1405,10 @@ What is the difference between a generator and an alternator ? Type: what
 How is energy created ? Type: unknown
 What beer advertised that it had `` three rings '' ? Type: what
 What is the quantity of American soldiers still unaccounted for from the Vietnam war ? Type: what
-What golfing accessory was patented by George Grant on December 12 Type: what
+What golfing accessory was patented by George Grant on December 12 Type: affirmation
 What are the different types of plastic ? Type: what
 How is it correct to say ` qigong ' ? Type: unknown
-What was the highest mountain on earth before Mount Everest was discovered ? Type: what
+What was the highest mountain on earth before Mount Everest was discovered ? Type: when
 Where was the Ligurian Republic , 1797-185 , ? Type: unknown
 What country 's people are the top television watchers ? Type: what
 When was the women 's suffrage amendment ratified ? Type: when
@@ -1416,7 +1416,7 @@ What Polynesian people inhabit New Zealand ? Type: what
 What movie tour of the Roman empire features the admonition : `` Row well and live '' ? Type: what
 What Nevada center has been dubbed The Biggest Little City in the World ? Type: what
 What President lived at 219 North Delaware Street , Independence , Missouri ? Type: what
-Give a reason for American Indians oftentimes dropping out of school . Type: unknown
+Give a reason for American Indians oftentimes dropping out of school . Type: affirmation
 Where must a soccer goalie stand to be permitted to handle the ball ? Type: unknown
 What is the difference between classical conditioning and operant conditioning ? Type: what
 In what U.S. state was the first woman governor elected ? Type: what
@@ -1445,7 +1445,7 @@ What song served as the closing theme of The Johnny Cash Show ? Type: what
 What field sport did dentist William Beers promote and write a standard book of rules for ? Type: what
 How do I tie dye clothes ? Type: unknown
 When does the average teenager first have intercourse ? Type: when
-Why doesn 't www.answers.com have any answers to my questions ? Type: unknown
+Why doesn 't www.answers.com have any answers to my questions ? Type: affirmation
 What actor 's autobiography is titled All My Yesterdays ? Type: what
 What Russian master spy lived in the U.S. under the name Emil Goldfus ? Type: what
 Where 's the 19th hole on a golf course ? Type: unknown
@@ -1478,7 +1478,7 @@ What cocktail do you concoct with whisky and sweet vermouth ? Type: what
 How do you say `` fresh '' in Spanish ? Type: unknown
 What do bee hives do in cranberry bogs ? Type: what
 What caused the Lynmouth floods ? Type: what
-When is the Tulip Festival in Michigan ? Type: what
+When is the Tulip Festival in Michigan ? Type: when
 Who came up with the name , El Nino ? Type: who
 What movie did Madilyn Kahn star in with Gene Wilder ? Type: what
 What type of bridge is the Golden Gate Bridge ? Type: what
@@ -1492,15 +1492,15 @@ Where can I find out the top 1 singles ? Type: unknown
 How many degrees cooler is the inside of a cucumber than the air outside ? Type: unknown
 What Spanish artist painted Crucifixion ? Type: what
 What is the Jewish bible called ? Type: what
-Why is the grass green ? Type: unknown
+Why is the grass green ? Type: affirmation
 What is a firewall ? Type: what
 What spy novelist served as Moscow correspondent for Reuter and The Times of London ? Type: what
-Which oil company almost picked a word that meant `` stalled car '' in Japanese as its new international name ? Type: unknown
+Which oil company almost picked a word that meant `` stalled car '' in Japanese as its new international name ? Type: affirmation
 How long does it take for Spider-Man 's web to evaporate ? Type: unknown
 Who was Randy Steven Craft 's lawyer ? Type: who
 What was known as the Spice Island ? Type: what
 Who was the first host of Person to Person ? Type: what
-Name the Ranger who was always after Yogi Bear . Type: who
+Name the Ranger who was always after Yogi Bear . Type: unknown
 What deck of cards includes the Wheel of Fortune , the Lovers , and Death ? Type: what
 What does the Statue of Liberty wear on her feet ? Type: what
 Who is the superstar in rent-a-cars ? Type: who
@@ -1543,7 +1543,7 @@ What is a fear of thunder ? Type: what
 What animal has killed the most people ? Type: what
 How many colleges are in Wyoming ? Type: unknown
 What Russian seaport has a name meaning `` Lord of the East '' ? Type: what
-Where can stocks be traded on-line ? Type: unknown
+Where can stocks be traded on-line ? Type: affirmation
 When was the Battle of Hastings ? Type: when
 What kind of file has the extension .dbf ? Type: what
 When did Muhammad live ? Type: when
@@ -1556,7 +1556,7 @@ What is the best college in the country ? Type: what
 What is viscosity ? Type: what
 What was the name of the sitcom that Alyssa Milano starred in with Tony Danza ? Type: what
 What are the Nordic nations ? Type: what
-Where on the Internet can I get information about the Fifth Amendment on the American Bill of Rights ? Type: unknown
+Where on the Internet can I get information about the Fifth Amendment on the American Bill of Rights ? Type: what
 What U.S. state borders Illinois to the north ? Type: what
 Name a film in which Jude Law acted . Type: unknown
 What is the temperature for baking Peachy Oat Muffins ? Type: what
@@ -1575,10 +1575,10 @@ Who was the star of the 1965 Broadway hit Golden Boy ? Type: what
 Where is Procter & Gamble based in the U.S. ? Type: unknown
 What army was founded by William Booth and his wife Catherine ? Type: what
 What does ribavirin consist of ? Type: what
-Name the soft drink that is `` number one in the sun . '' Type: unknown
+Name the soft drink that is `` number one in the sun . '' Type: affirmation
 What is the web address of the list of e-mail addresses of members of the House of Representatives ? Type: what
 What was her real name ? Type: what
-Why are the ears your center of balance ? Type: unknown
+Why are the ears your center of balance ? Type: affirmation
 Who invented the toothbrush ? Type: who
 What was the name of that popular song the Creeps sang ? Type: what
 Where is the Abominable Snowman said to wander ? Type: unknown
@@ -1622,13 +1622,13 @@ What is a Jellicle Cat ? Type: what
 Where can I find the best free evidence for debate about Russia ? Type: unknown
 What is Bill Gates of Microsoft E-mail address ? Type: what
 What is the second hardest substance ? Type: what
-Why did several San Diego schools stop serving apples to students ? Type: unknown
+Why did several San Diego schools stop serving apples to students ? Type: affirmation
 What Russian city boasts the Hermitage Museum ? Type: what
 When is Bastille Day ? Type: when
 What makes a tornado turn ? Type: what
 How many shots can a stock M16 hold ? Type: unknown
 What two colors are you blind to if you suffer from protanopia ? Type: what
-Why do n't you guys have some sort of contest where you ask a question and whoever finds the answers wins a prize ? Type: unknown
+Why do n't you guys have some sort of contest where you ask a question and whoever finds the answers wins a prize ? Type: affirmation
 Who is Coronado ? Type: who
 What was the name of the movie that starred Sharon Stone and Arnold Schwarzenegger ? Type: what
 What is artificial intelligence ? Type: what
@@ -1650,7 +1650,7 @@ What is the most advanced handheld calculator in the world ? Type: what
 How fast is light ? Type: unknown
 What is the belt of low pressure around the equator called ? Type: what
 What are shooting stars ? Type: what
-Whom did the Chicago Bulls beat in the 1993 championship ? Type: unknown
+Whom did the Chicago Bulls beat in the 1993 championship ? Type: affirmation
 When was the first American encyclopedia published ? Type: when
 What 's the tallest building in New York City ? Type: what
 How is Easter Sunday 's date determined ? Type: unknown
@@ -1670,27 +1670,27 @@ What is the highest mountain in the world ? Type: what
 What arch can you see from the Place de la Concorde ? Type: what
 Who sings the song `` Drink to me with thine eyes '' by Ben Johnson ? Type: who
 How long should a person wash their hands before they are clean ? Type: unknown
-Which way do you turn your Bic to increase the flame - clockwise or counterclockwise ? Type: unknown
-Which is the wealthiest country in the world ? Type: unknown
+Which way do you turn your Bic to increase the flame - clockwise or counterclockwise ? Type: affirmation
+Which is the wealthiest country in the world ? Type: what
 How can I find a phone number of someone if I only know their email address ? Type: unknown
 How can you contact play producers and promoters on-line ? Type: unknown
 Who is the monarch of the United Kingdom ? Type: who
 What is a fear of passing high objects ? Type: what
 What do players try to do when the music stops in a game of musical chairs ? Type: what
 What are the top ten most common girl names in the US ? Type: what
-Why is black the color of mourning in the West ? Type: unknown
+Why is black the color of mourning in the West ? Type: affirmation
 What is the rarest coin ? Type: what
 What Judith Rossner novel was made into a film starring Diane Keaton ? Type: what
-Which country is Australia 's largest export market ? Type: unknown
+Which country is Australia 's largest export market ? Type: affirmation
 Where is the Kentucky Horse Park located ? Type: unknown
 What is a fear of parasites ? Type: what
-In what Olympic Games did Nadia Comaneci become popular ? Type: what
+In what Olympic Games did Nadia Comaneci become popular ? Type: when
 Who does data collection in tourism ? Type: who
 What was the name of the daughter of the Virginia chief Powhatan that married John Rolfe ? Type: what
 What is the leading pecan and peanut growing state ? Type: what
 What does a nihilist believe in ? Type: what
 What did Richard Feynman say upon hearing he would receive the Nobel Prize in Physics ? Type: unknown
-In what sport are these following numbers relevant : 118 , 126 , 134 , 142 , 15 , 158 , 167 , 177 , and 19 ? Type: unknown
+In what sport are these following numbers relevant : 118 , 126 , 134 , 142 , 15 , 158 , 167 , 177 , and 19 ? Type: what
 Who were the four famous founders of United Artists ? Type: who
 What 2 statues did France give to other countries ? Type: what
 What are amphibians ? Type: what
@@ -1715,7 +1715,7 @@ What are the shortest and the longest songs ever produced ? Type: what
 What letter is to the right of K on a typewriter keyboard ? Type: what
 What is the origin and the meaning of the name , `` Hajo ? '' Type: what
 What is the plural of gulf ? Type: what
-Whose autobiography is titled Yes I Can ? Type: affirmation
+Whose autobiography is titled Yes I Can ? Type: unknown
 What year did the United States pass the Copyright law ? Type: what
 What percentage of Americans own their homes ? Type: what
 What 's the first day of the week ? Type: what
@@ -1733,7 +1733,7 @@ What was the name of the cook on Rawhide ? Type: what
 What county is Chicago in ? Type: what
 What is the wingspan of a condor ? Type: what
 What facial feature typically contains about 55 hairs ? Type: what
-Who was named Admiral of the Ocean Seas and Viceroy and Governor General of all the islands he might discover , and also granted 10-?? of all profits of his voyage . Type: who
+Who was named Admiral of the Ocean Seas and Viceroy and Governor General of all the islands he might discover , and also granted 10-?? of all profits of his voyage . Type: affirmation
 How can I transport files from one computer to another ? Type: unknown
 What 's the literary term for a play on words ? Type: what
 What color were their horses ? Type: what
@@ -1757,7 +1757,7 @@ What is the longest place name in the U.S. ? Type: what
 What percent liked Thatcher after she had been in power for a decade ? Type: what
 Where does Buzz Aldrin want to build a permanent , manned space station ? Type: unknown
 What was Mel Gibson 's first movie ? Type: what
-Why was the L.A. office of Shea and Gould closed ? Type: unknown
+Why was the L.A. office of Shea and Gould closed ? Type: affirmation
 How do I start a bank ? Type: unknown
 How do Ouija Boards work ? Type: unknown
 What horse did Zorro ride ? Type: what
@@ -1765,8 +1765,8 @@ How do you get a broken cork out of a bottle ? Type: unknown
 Where can I find correct tabs for Third Eye Blind songs ? Type: unknown
 How do you determine heating requirements for your home ? Type: unknown
 What former major-league left-handed baseball pitcher was known as `` Space Man '' ? Type: what
-Which hair care product told us `` hate that gray , wash it away '' ? Type: unknown
-Why did the chicken cross the road ? Type: unknown
+Which hair care product told us `` hate that gray , wash it away '' ? Type: affirmation
+Why did the chicken cross the road ? Type: affirmation
 What was Michelangelo 's last name ? Type: what
 Who is Barbara Jordan ? Type: who
 Who was the Democratic nominee in the American presidential election ? Type: who
@@ -1783,12 +1783,12 @@ When was Hurricane Hugo ? Type: what
 What is the most heavily caffeinated soft drink ? Type: what
 What President-to-be was the first member of Congress to enlist following the attack on Pearl Harbor ? Type: what
 What was the price of Varian Associates ' vacuum products division ? Type: what
-When was `` the Great Depression '' ? Type: what
+When was `` the Great Depression '' ? Type: when
 What language is mostly spoken in Brazil ? Type: what
 What college produced the most winning Super Bowl quarterbacks ? Type: what
 How do you solve `` Rubik 's Cube '' ? Type: unknown
 What is prepared mustard ? Type: what
-What classical Spanish writer warned : `` All that glitters is not gold '' ? Type: what
+What classical Spanish writer warned : `` All that glitters is not gold '' ? Type: when
 What does `` antidisestablishmentarianism '' mean ? Type: what
 What actor married John F. Kennedy 's sister ? Type: what
 What does a topophobic actor suffer from ? Type: what
@@ -1800,7 +1800,7 @@ Who was the first black golfer to tee off in the Masters ? Type: who
 What city is the setting for Puccini 's opera La Boheme ? Type: what
 What U.S. President showed a fondness for munching on bee pollen bars ? Type: what
 What is measured in curies ? Type: what
-Whose cover is that of an employee of Universal Import and Export ? Type: unknown
+Whose cover is that of an employee of Universal Import and Export ? Type: affirmation
 What former president 's daughter has written a book titled Murder in the White House ? Type: what
 What fictional character is known as the `` melancholy Dane '' ? Type: what
 Italy is the largest producer of what ? Type: what
@@ -1861,12 +1861,12 @@ Who created the character of Scrooge ? Type: who
 What is the student population at the University of Massachusetts in Amherst ? Type: what
 Where is Windsor Castle ? Type: unknown
 When did the Dow first reach ? Type: when
-Why were people recruited for the Vietnam War ? Type: unknown
+Why were people recruited for the Vietnam War ? Type: affirmation
 What party was Winston Churchill a member of ? Type: what
 What American League baseball team 's worst finish between 1926 and 1964 was fourth ? Type: what
 Where can I find the names of all the 15 Pokemon ? Type: unknown
 What state does Martha Stewart live in ? Type: what
-Which killer whale died at Sea World of a fungal infection ? Type: unknown
+Which killer whale died at Sea World of a fungal infection ? Type: affirmation
 What are the Benelux countries ? Type: what
 Where 's the Petrified Forest ? Type: unknown
 What is a language spoken by the Sioux ? Type: what
@@ -1874,7 +1874,7 @@ Where is Tornado Alley ? Type: unknown
 Who was the author of `` John Brown 's Body '' ? Type: who
 What American poet wrote : `` Good fences make good neighbors '' ? Type: what
 What state in the U.S. has the most blacks ? Type: what
-Why are electric cars less efficient in the northeast than in California ? Type: unknown
+Why are electric cars less efficient in the northeast than in California ? Type: what
 What was the occupation of Mandy Rice-Davies ? Type: what
 What is the city in which Maurizio Pellegrin lives called ? Type: what
 Who painted the Sistine Chapel ? Type: who
@@ -1922,14 +1922,14 @@ What is the difference between a median and a mean ? Type: what
 What was the top box office movie in April 1998 ? Type: what
 What makes thunder ? Type: what
 What author did photographer Yousuf Karsh call `` the shiest man I ever met '' ? Type: what
-Which is the largest clock , diameter wise , in Europe ? Type: unknown
+Which is the largest clock , diameter wise , in Europe ? Type: affirmation
 What plant is rum made from ? Type: what
 What country are Godiva chocolates from ? Type: what
 Name the poet of the poem which begins : I do not know much about gods ; but I think that the river Is a strong brown god-sullen , and untamed ? Type: unknown
-Which condiment was once sold as a patent medicine ? Type: unknown
+Which condiment was once sold as a patent medicine ? Type: affirmation
 What U.S. state records the least rainfall ? Type: what
-Why did the world enter a global depression in 1929 ? Type: unknown
-What was archy , and mehitabel ? Type: what
+Why did the world enter a global depression in 1929 ? Type: what
+What was archy , and mehitabel ? Type: when
 What Texas city got its name from the Spanish for `` yellow '' ? Type: what
 What are the chemicals used in glowsticks ? Type: what
 What country did the Nile River originate in ? Type: what
@@ -1974,7 +1974,7 @@ What golfer has been called Ohio Fats and Blobbo ? Type: what
 Who murdered Leno and Rosemary LaBianca on August 1 Type: who
 What is the average cost for four years of medical school ? Type: what
 What does God create in the first sentence of the Bible ? Type: what
-Which of the following men was not married to Rita Hayworth ? Type: unknown
+Which of the following men was not married to Rita Hayworth ? Type: affirmation
 What is the current ticket fare from from Cairo to Barbados ? Type: what
 What does NN O `` mean when used as a prefix in Irish surnames ? Type: what
 How do you find oxidation numbers ? Type: unknown
